@@ -1,0 +1,18 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    color: red;
+    background-color: aqua;
+    font-family: 'Sofia', Cursive, "Times New Roman";
+    font-size: 45px;
+}
+h2 {
+    background-color: blanchedalmond;
+}
+.trends {
+    background-color: blue;
+}
+img {
+    display: block;
+}
